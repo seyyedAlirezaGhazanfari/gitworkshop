@@ -5,5 +5,6 @@ class Cake{
         int[] gh = Arrays.copyOfRange(array,0,array.length);
         System.out.println(gh[1]);
    System.out.println("salam");
+   System.out.println("hellowo");
     }
 }
